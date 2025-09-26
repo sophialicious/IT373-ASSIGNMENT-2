@@ -1,0 +1,14 @@
+1. Python Version
+       python --version
+
+2. Virtual Environment Active
+      -m venv .venv
+
+3. Django Version
+       -m django --version
+
+4. Runserver Working
+       python .\manage.py runserver
+
+5. Git Remote Set
+       git remote -v
